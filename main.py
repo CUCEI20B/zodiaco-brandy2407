@@ -25,6 +25,3 @@ if (dia>=22 and mes==11) or (dia<=21 and mes==12):
     print("sagitario")
 if (dia>=22 and mes==12) or (dia<=19 and mes==1):
     print("capricornio")
-
-
-
