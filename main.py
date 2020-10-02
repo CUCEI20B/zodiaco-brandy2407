@@ -2,7 +2,7 @@ dia = int(input())
 mes = int(input())
 
 if (dia>=20 and mes==1) or (dia<=18 and mes==2):
-    print("acurario")
+    print("acuario")
 if (dia>=19 and mes==2) or (dia<=20 and mes==3):
     print("piscis")
 if (dia>=21 and mes==3) or (dia<=19 and mes==4):
